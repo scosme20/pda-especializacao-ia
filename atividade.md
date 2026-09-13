@@ -1,0 +1,2 @@
+Tanto o claude quanto o codex refatoraram uma tela que em si já estava feita só precisou de alguns ajustes, mesmo com o prompt detalhado, imagem do erro, e do propria imagem base, o claude refatorou e o codex gerou uma resposta errada. Na segunda tentativa, ele identificou as lacunas e consertou os erros.
+O codex apresentou um resultado satisfatorio para resolver lacunas e encontrar erros. O codex por outro lado apresentou um resultado melhor na hora de fazer um visual e ligar um sistema.
